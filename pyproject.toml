@@ -1,5 +1,5 @@
 [project]
-name = "mypkg"
+name = "media-media_data_analysis"
 version = "0.0.1"
 description = "Final Project Group Repository for COMPSS-211"
 readme = "README.md"
@@ -11,4 +11,4 @@ requires = ["setuptools>=69", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-package-dir = {"" = "src"}
+package-dir = {"" = "media_data_analysis"}
